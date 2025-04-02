@@ -2,6 +2,10 @@
 
 <img src="preview_wallets.png" alt="Preview" width="420" height="525"/>
 
+# Warning
+
+Ordzaar is undergoing some restructuring and with it, Ordit services will be taken down. Please use your own services for relaying txs etc. 
+
 ## Introduction
 
 **ord-connect** is a React component library that allows you to easily integrate Bitcoin Ordinals & Inscriptions with your decentralized application (dApp). We stand as the pioneering walletkit to support ordinal-aware transactions, ensuring you never inadvertently spend a rare ordinal!
