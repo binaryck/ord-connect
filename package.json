@@ -1,9 +1,9 @@
 {
-  "name": "@ordzaar/ord-connect",
+  "name": "@binaryck/ord-connect",
   "version": "0.0.0",
   "private": true,
-  "repository": "https://github.com/ordzaar/ord-connect",
-  "bugs": "https://github.com/ordzaar/ord-connect/issues",
+  "repository": "https://github.com/binaryck/ord-connect",
+  "bugs": "https://github.com/binaryck/ord-connect/issues",
   "license": "MIT",
   "scripts": {
     "prepare": "husky",

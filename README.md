@@ -1,10 +1,12 @@
+This is a fork of ordzaar/ord-connect that supports React 19
+
 # ord-connect
 
 <img src="preview_wallets.png" alt="Preview" width="420" height="525"/>
 
 # Warning
 
-Ordzaar is undergoing some restructuring and with it, Ordit services will be taken down. Please use your own services for relaying txs etc. 
+Ordzaar is undergoing some restructuring and with it, Ordit services will be taken down. Please use your own services for relaying txs etc.
 
 ## Introduction
 
