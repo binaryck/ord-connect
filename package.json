@@ -1,7 +1,7 @@
 {
-  "name": "@binaryck/ord-connect",
+  "name": "ord-connect-binaryck",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/binaryck/ord-connect",
   "bugs": "https://github.com/binaryck/ord-connect/issues",
   "license": "MIT",

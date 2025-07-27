@@ -31,13 +31,13 @@ Just two simple steps:
 1.  Add dependency:
 
     ```bash
-    pnpm install @ordzaar/ord-connect
+    pnpm install ord-connect-binaryck
     ```
 
 2.  Import ord-connect into your dApp:
 
     ```javascript
-    import { Chain, Network, OrdConnectProvider, OrdConnectKit } from "@ordzaar/ord-connect";
+    import { Chain, Network, OrdConnectProvider, OrdConnectKit } from "ord-connect-binaryck";
 
     export default function YourReactComponent() {
       return (
