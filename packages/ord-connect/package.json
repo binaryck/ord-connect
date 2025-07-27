@@ -1,6 +1,6 @@
 {
   "name": "ord-connect-binaryck",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React component library for Bitcoin Ordinals",
   "repository": "https://github.com/binaryck/ord-connect",
   "bugs": "https://github.com/binaryck/ord-connect/issues",
